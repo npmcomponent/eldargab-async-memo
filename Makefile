@@ -1,7 +1,7 @@
 test: node_modules
 	@node_modules/.bin/mocha -R spec
 
-node_modules: package.json
+node_modules:
 	@npm install -d
 
 clean:

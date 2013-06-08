@@ -1,7 +1,7 @@
 {
   "name": "async-memo",
   "version": "0.0.1",
-  "description": "Call function at most once and remember the result. Args are not supported.",
+  "description": "Call a function at most once and remember the result. Args are not supported.",
   "license": "MIT",
   "keywords": [
     "async",
