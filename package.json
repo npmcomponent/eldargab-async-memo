@@ -1,20 +1,11 @@
 {
-  "name": "async-memo",
+  "name": "eldargab-async-memo",
+  "description": "Call a function at most once and remember the result. Args are not supported.",
   "version": "0.0.1",
-  "description": "Call a function at most once and remember the result. Args are not supported",
   "keywords": [
     "async",
     "memoize"
   ],
-  "license": "MIT",
-  "author": "Eldar Gabdullin <eldargab@gmail.com>",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/eldargab/async-memo"
-  },
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*",
-    "component-as-module": "*"
-  }
+  "dependencies": {},
+  "license": "MIT"
 }
